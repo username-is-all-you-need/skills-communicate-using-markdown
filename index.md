@@ -8,3 +8,7 @@ when i fist edit this text ,i beginning my career
 ``` javascript
 var myVar = "你好，世界！";
 ```
+
+- [y] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
